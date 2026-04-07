@@ -75,11 +75,6 @@ I am passionate about turning complex datasets into clear, meaningful reports an
 <a href="https://www.linkedin.com/in/muhammad-usman-7b68a12a2">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-  <img src="https://img.shields.io/badge/Mobile-03054398566-4AB8FF?style=for-the-badge&logo=mobile&logoColor=white"/>
-</a>
-</p>
-
 ---
 
 ## 💡 Professional Statement
