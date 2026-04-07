@@ -20,7 +20,7 @@ I am passionate about turning complex datasets into clear, meaningful reports an
 ---
 
 ## 🎓 Education
-- **Bachelor of Science in Computer Science (BSCS)** – University of Education, Lahore, Pakistan (2025)  
+- **Bachelor of Science in Computer Science (BSCS)** – University of Education, Pakistan (2025)  
 
 ---
 
@@ -38,26 +38,70 @@ I am passionate about turning complex datasets into clear, meaningful reports an
 
 ---
 
-## 💼 Professional Experience
-- **Data Analysis & Reporting** – Cleaned, transformed, and analyzed datasets to produce actionable insights  
-- **Dashboard Development** – Built interactive dashboards in **Power BI** for business intelligence and reporting  
-- **Automation** – Automated repetitive tasks and reporting using **Python & Excel**  
-- **SQL Database Management** – Extracted and queried data efficiently for analysis and reporting  
+## 💼 Featured Projects
+
+### 📌 Pricing Automation Dashboard
+- Automated product pricing updates using **Excel & Python**  
+- Reduced manual work and improved accuracy  
+
+<p align="center">
+  <img src="https://i.ibb.co/rf57ngBz/image.png" width="400"/>
+</p>
 
 ---
 
-## 💡 Professional Statement
-> "I transform raw data into actionable insights using Excel, Power BI, Python, and SQL, helping businesses make data-driven decisions efficiently."
+### 📌 Hospital Data Analysis
+- Analyzed **patient data & treatment performance**  
+- Generated actionable insights for hospital management  
+
+<p align="center">
+  <img src="https://i.ibb.co/nNQ115WT/image.png" width="400"/>
+</p>
+
+---
+
+### 📌 Sales Dashboard
+- Created **interactive dashboards** for sales & revenue analysis  
+- Visualized trends and supported data-driven decisions  
+
+<p align="center">
+  <img src="https://neenopal-website.s3.amazonaws.com/blog/resources/blobid1697455026779.png" width="400"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Usman913-ml&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usman913-ml&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Advanced Data Analytics  
+- Automation Techniques  
+- Real-world Business Data Projects  
 
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
-  <a href="mailto:Muhammadusman10266@gmail.com">
-<a href="mailto:chusman56666@gmail.com">
+<a href="mailto:Muhammadusman10266@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/muhammad-usman-7b68a12a2">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+  <img src="https://img.shields.io/badge/Mobile-03054398566-4AB8FF?style=for-the-badge&logo=mobile&logoColor=white"/>
+</a>
 </p>
+
+---
+
+## 💡 Professional Statement
+> "I transform raw data into actionable insights using Excel, Power BI, Python, and SQL, helping businesses make data-driven decisions efficiently."
