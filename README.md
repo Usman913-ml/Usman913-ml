@@ -20,7 +20,7 @@ I am passionate about turning complex datasets into clear, meaningful reports an
 ---
 
 ## 🎓 Education
-- **Bachelor of Science in Computer Science (BSCS)** – University of Education, Pakistan (2025)  
+- **Bachelor of Science in Computer Science (BSCS)** – University of Education, Lahore, Pakistan (2025)  
 
 ---
 
