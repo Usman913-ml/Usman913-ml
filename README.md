@@ -39,27 +39,6 @@ I am passionate about turning complex datasets into clear, meaningful reports an
 ---
 
 ## 💼 Featured Projects
-
-### 📌 Pricing Automation Dashboard
-- Automated product pricing updates using **Excel & Python**  
-- Reduced manual work and improved accuracy  
-
-<p align="center">
-  <img src="https://i.ibb.co/rf57ngBz/image.png" width="400"/>
-</p>
-
----
-
-### 📌 Hospital Data Analysis
-- Analyzed **patient data & treatment performance**  
-- Generated actionable insights for hospital management  
-
-<p align="center">
-  <img src="https://i.ibb.co/nNQ115WT/image.png" width="400"/>
-</p>
-
----
-
 ### 📌 Sales Dashboard
 - Created **interactive dashboards** for sales & revenue analysis  
 - Visualized trends and supported data-driven decisions  
